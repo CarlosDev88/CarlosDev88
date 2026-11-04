@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg"><img src="banner-light.svg" alt="Carlos Rueda, Full Stack Engineer for e-commerce and fintech" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg"><img src="banner-light.svg" alt="Carlos Rueda, Senior Frontend Engineer for e-commerce and fintech" width="100%"></picture>
 
 <p>
-I build e-commerce and fintech products with <b>React, Next.js, TypeScript and Node.js</b>, with Python and Django on the backend. Nearly 5 years in production, more than 3 of them on <b>VTEX IO</b>. In my latest role I shipped with AI agents: I design the workflow and own the decisions, and the agents do the repetitive work.
+Senior Frontend Engineer building e-commerce and fintech products with <b>React, Next.js and TypeScript</b>. I move into the backend when the product needs it, with Node.js, AWS Lambda and Python. Nearly 5 years in production, more than 3 of them on <b>VTEX IO</b>. In my latest role I shipped with AI agents: I design the workflow and own the decisions, and the agents do the repetitive work.
 </p>
 <p>
-Open to <b>remote</b> roles as Full Stack or Senior Frontend Engineer in e-commerce, fintech and teams that already work with agents.
+Open to <b>remote</b> roles as Senior Frontend Engineer or frontend-focused Full Stack Engineer in e-commerce, fintech and teams that already work with agents.
 </p>
 
 <p>
@@ -66,9 +66,9 @@ Open to <b>remote</b> roles as Full Stack or Senior Frontend Engineer in e-comme
 
 <br>
 
-**Full Stack Engineer** que construye productos de e-commerce y fintech con React, Next.js, TypeScript y Node.js, con Python y Django en el backend. Casi 5 años en producción, más de 3 sobre VTEX IO. En mi último trabajo entregué con agentes de IA: yo diseño el flujo y tomo las decisiones, y los agentes hacen el trabajo repetitivo.
+**Senior Frontend Engineer** que construye productos de e-commerce y fintech con React, Next.js y TypeScript, y que pasa al backend con Node.js, AWS Lambda y Python cuando el producto lo pide. Casi 5 años en producción, más de 3 sobre VTEX IO. En mi último trabajo entregué con agentes de IA: yo diseño el flujo y tomo las decisiones, y los agentes hacen el trabajo repetitivo.
 
-Busco trabajo **remoto** como Full Stack o Senior Frontend Engineer, sobre todo en e-commerce, fintech y equipos que ya trabajan con agentes.
+Busco trabajo **remoto** como Senior Frontend Engineer o Full Stack con foco en frontend, sobre todo en e-commerce, fintech y equipos que ya trabajan con agentes.
 
 **Proyectos destacados**
 
