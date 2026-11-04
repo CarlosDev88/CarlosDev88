@@ -24,7 +24,7 @@ Open to <b>remote</b> roles as Senior Frontend Engineer or frontend-focused Full
 
 <p>
   <a href="https://github.com/CarlosDev88/jurisprudence-jsf-viewstate-scraper"><picture><source media="(prefers-color-scheme: dark)" srcset="card-scraper-dark.svg"><img src="card-scraper-light.svg" alt="Case-law scraper for a legacy JSF portal" width="49%"></picture></a>
-  <a href="https://github.com/CarlosDev88/buildsync"><picture><source media="(prefers-color-scheme: dark)" srcset="card-buildsync-dark.svg"><img src="card-buildsync-light.svg" alt="BuildSync: ERP and CRM backend for construction companies" width="49%"></picture></a>
+  <a href="https://github.com/CarlosDev88/real-estate-credit-backoffice"><picture><source media="(prefers-color-scheme: dark)" srcset="card-backoffice-dark.svg"><img src="card-backoffice-light.svg" alt="Real-estate credit backoffice: Django REST backend for credit applications, in progress" width="49%"></picture></a>
 </p>
 
 <p>
@@ -32,7 +32,7 @@ Open to <b>remote</b> roles as Senior Frontend Engineer or frontend-focused Full
   <a href="https://github.com/CarlosDev88/vtex-react-app-fortune-cookie"><picture><source media="(prefers-color-scheme: dark)" srcset="card-vtex-dark.svg"><img src="card-vtex-light.svg" alt="VTEX IO full-stack sample" width="49%"></picture></a>
 </p>
 
-<sub>Also: <a href="https://github.com/CarlosDev88/real-estate-credit-backoffice">real-estate-credit-backoffice</a> (Django REST Framework MVP for Colombian real-estate credit applications) and <a href="https://github.com/CarlosDev88/deteccion-neumonia-cnn">deteccion-neumonia-cnn</a> (CNN trained from scratch in TensorFlow/Keras, coursework).</sub>
+<sub>Also: <a href="https://github.com/CarlosDev88/deteccion-neumonia-cnn">deteccion-neumonia-cnn</a>, a CNN trained from scratch in TensorFlow/Keras (coursework).</sub>
 
 <br><br>
 
@@ -75,7 +75,7 @@ Busco trabajo **remoto** como Senior Frontend Engineer o Full Stack con foco en 
 - **[Job Tracker](https://github.com/CarlosDev88/Job-Tracker):** convierte publicaciones de empleo de cuatro fuentes en una lista corta y ordenada. En una corrida real pasó de 1.017 publicaciones a 74 relevantes.
 - **[Arnés de agentes](https://github.com/CarlosDev88/agent-harness):** el flujo con el que llevé 4 tickets de scrapers a producción en paralelo, con un worktree por ticket, agentes que ejecutan, auditan y prueban, y mi aprobación en cada paso.
 - **[Scraper de jurisprudencia](https://github.com/CarlosDev88/jurisprudence-jsf-viewstate-scraper):** scraper HTTP sin navegador para un portal legacy, con recuperación de sesión, backoff y checkpoint/resume. 21 tests.
-- **[BuildSync](https://github.com/CarlosDev88/buildsync):** backend modular de ERP y CRM para constructoras, que sale de mis 7 años en finanzas de obra.
+- **[Backoffice de crédito inmobiliario](https://github.com/CarlosDev88/real-estate-credit-backoffice)** (en construcción): backend en Django REST para solicitudes de crédito inmobiliario en Colombia, con CRM, productos bancarios, checklist de documentos, radicaciones manuales ante bancos y un portal para el comprador.
 - **[Pipeline de datos de e-commerce](https://github.com/CarlosDev88/ecommerce-data-pipeline)** (en construcción): catálogos reales de tiendas VTEX y datos sintéticos guiados por reglas de negocio.
 - **[Ejemplo full stack en VTEX IO](https://github.com/CarlosDev88/vtex-react-app-fortune-cookie):** tema de tienda, app React, app de Admin y servicio Node.js con Master Data.
 
