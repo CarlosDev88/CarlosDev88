@@ -1,110 +1,68 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Carlos Rueda, Full Stack Engineer for e-commerce and fintech" width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg"><img src="banner-light.svg" alt="Carlos Rueda, Full Stack Engineer for e-commerce and fintech" width="100%"></picture>
 
-**Full Stack Engineer** building e-commerce and fintech products with React, Next.js, TypeScript and Node.js, with Python and Django on the backend. Nearly 5 years in production, more than 3 of them on VTEX IO. In my latest role I shipped with AI agents: I design the workflow and own the decisions, and the agents do the repetitive work.
+<p>
+I build e-commerce and fintech products with <b>React, Next.js, TypeScript and Node.js</b>, with Python and Django on the backend. Nearly 5 years in production, more than 3 of them on <b>VTEX IO</b>. In my latest role I shipped with AI agents: I design the workflow and own the decisions, and the agents do the repetitive work.
+</p>
+<p>
+Open to <b>remote</b> roles as Full Stack or Senior Frontend Engineer in e-commerce, fintech and teams that already work with agents.
+</p>
 
-Open to **remote** roles as Full Stack or Senior Frontend Engineer, especially in e-commerce, fintech and teams that already work with agents.
+<p>
+  <a href="https://www.linkedin.com/in/carlos-rueda-calier"><picture><source media="(prefers-color-scheme: dark)" srcset="btn-linkedin-dark.svg"><img src="btn-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>
+  <a href="mailto:arturorueda88@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="btn-email-dark.svg"><img src="btn-email-light.svg" alt="arturorueda88@gmail.com" height="40"></picture></a>
+  <a href="https://github.com/CarlosDev88/?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="btn-github-dark.svg"><img src="btn-github-light.svg" alt="All repositories" height="40"></picture></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/carlos-rueda-calier) · [arturorueda88@gmail.com](mailto:arturorueda88@gmail.com) · Versión en español al final
+<br>
 
-## Featured work
+<picture><source media="(prefers-color-scheme: dark)" srcset="h-work-dark.svg"><img src="h-work-light.svg" alt="Featured work" width="100%"></picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/CarlosDev88/Job-Tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="card-jobtracker-dark.svg"><img src="card-jobtracker-light.svg" alt="Job Tracker: pipeline that turns raw job posts into a ranked shortlist" width="49%"></picture></a>
+  <a href="https://github.com/CarlosDev88/agent-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="card-harness-dark.svg"><img src="card-harness-light.svg" alt="Agent harness: multi-agent workflow on Claude Code" width="49%"></picture></a>
+</p>
 
-**[Job Tracker](https://github.com/CarlosDev88/Job-Tracker)**<br>
-Turns raw job posts from four sources into a short, ranked list. Normalization, deduplication (SHA-256 plus text similarity), intent classification, section-aware scoring and idempotent storage. A [Chrome extension](https://github.com/CarlosDev88/job-scraper-extension) handles ingestion.<br>
-**Real run:** 1,017 posts down to 74 relevant ones. 32 automated tests.<br>
-<sub>Python · FastAPI · SQLite · React · Docker</sub>
+<p>
+  <a href="https://github.com/CarlosDev88/jurisprudence-jsf-viewstate-scraper"><picture><source media="(prefers-color-scheme: dark)" srcset="card-scraper-dark.svg"><img src="card-scraper-light.svg" alt="Case-law scraper for a legacy JSF portal" width="49%"></picture></a>
+  <a href="https://github.com/CarlosDev88/buildsync"><picture><source media="(prefers-color-scheme: dark)" srcset="card-buildsync-dark.svg"><img src="card-buildsync-light.svg" alt="BuildSync: ERP and CRM backend for construction companies" width="49%"></picture></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/CarlosDev88/ecommerce-data-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="card-pipeline-dark.svg"><img src="card-pipeline-light.svg" alt="E-commerce data pipeline, in progress" width="49%"></picture></a>
+  <a href="https://github.com/CarlosDev88/vtex-react-app-fortune-cookie"><picture><source media="(prefers-color-scheme: dark)" srcset="card-vtex-dark.svg"><img src="card-vtex-light.svg" alt="VTEX IO full-stack sample" width="49%"></picture></a>
+</p>
 
-**[Agent harness](https://github.com/CarlosDev88/agent-harness)**<br>
-Reconstruction of the workflow I used to take 4 scraper tickets to production in parallel: one git worktree per ticket, separate agents to execute, audit and test, a state file that survives context compaction, and human approval at every gate.<br>
-**Rule:** the agent answers only from the task, the repo or a logged question.<br>
-<sub>Claude Code · Shell · Git worktrees</sub>
+<sub>Also: <a href="https://github.com/CarlosDev88/real-estate-credit-backoffice">real-estate-credit-backoffice</a> (Django REST Framework MVP for Colombian real-estate credit applications) and <a href="https://github.com/CarlosDev88/deteccion-neumonia-cnn">deteccion-neumonia-cnn</a> (CNN trained from scratch in TensorFlow/Keras, coursework).</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-**[Case-law scraper (JSF/ViewState)](https://github.com/CarlosDev88/jurisprudence-jsf-viewstate-scraper)**<br>
-Browserless HTTP scraper for a legacy government portal. Reproduces the JSF/RichFaces protocol, recovers expired sessions, backs off on HTTP 429 and resumes from checkpoints without losing or duplicating documents.<br>
-**Quality:** 18 unit and 3 integration tests, multi-stage Docker image.<br>
-<sub>TypeScript · Node.js · Axios · Cheerio · Docker</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="h-exp-dark.svg"><img src="h-exp-light.svg" alt="Experience" width="100%"></picture>
 
-</td>
-<td width="50%" valign="top">
+<picture><source media="(prefers-color-scheme: dark)" srcset="timeline-dark.svg"><img src="timeline-light.svg" alt="Experience: Magnar 2026, Valtech 2025-2026, LQN 2024-2025, ITGlobers 2022-2024, Cadastra 2022, and 7 years in construction finance before software" width="100%"></picture>
 
-**[BuildSync](https://github.com/CarlosDev88/buildsync)**<br>
-Modular ERP and CRM backend for real-estate construction companies, from the public catalog of projects and units to on-site cost control. It comes from the 7 years I spent inside construction finance before moving into software.<br>
-<sub>Python · Django</sub>
+<br><br>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<picture><source media="(prefers-color-scheme: dark)" srcset="h-agents-dark.svg"><img src="h-agents-light.svg" alt="How I work with AI agents" width="100%"></picture>
 
-**[E-commerce data pipeline](https://github.com/CarlosDev88/ecommerce-data-pipeline)** · <sub>in progress</sub><br>
-Real product catalogs from public VTEX store APIs, deduplicated by EAN, plus synthetic users, sessions, transactions, XML invoices, returns and fraud signals, all driven by business rules in one settings file. Storage sits behind a single interface.<br>
-**Next:** Pub/Sub events, BigQuery, dbt and a public dashboard.<br>
-<sub>Python · Pandas · PyArrow · Faker</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="workflow-dark.svg"><img src="workflow-light.svg" alt="Understand, isolate, build, approve" width="100%"></picture>
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-**[VTEX IO full-stack sample](https://github.com/CarlosDev88/vtex-react-app-fortune-cookie)**<br>
-A small feature built across the whole VTEX IO stack: a [store theme](https://github.com/CarlosDev88/store-theme-fortune-cookie), a storefront React app, an [Admin app](https://github.com/CarlosDev88/admin-app-cookie-fortune) with create and delete flows, and a [Node.js service](https://github.com/CarlosDev88/service-vtex-fortune-cookie) backed by Master Data.<br>
-<sub>TypeScript · React · Node.js · VTEX IO · Master Data</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="h-stack-dark.svg"><img src="h-stack-light.svg" alt="Stack" width="100%"></picture>
 
-</td>
-</tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="stack-dark.svg"><img src="stack-light.svg" alt="Frontend, e-commerce, backend, data and cloud, quality and AI" width="100%"></picture>
 
-Also: [real-estate-credit-backoffice](https://github.com/CarlosDev88/real-estate-credit-backoffice), a Django REST Framework MVP for Colombian real-estate credit applications, and [deteccion-neumonia-cnn](https://github.com/CarlosDev88/deteccion-neumonia-cnn), a CNN trained from scratch in TensorFlow/Keras and evaluated once on a held-out test set (coursework).
+<br><br>
 
-## Experience
-
-| When | Where | Role | What I did |
-|---|---|---|---|
-| 2026 | Magnar (legal tech, Chile) | Web scraper developer, data ingestion (contract) | Scrapers for legal documents, 4 tickets in parallel with an agent workflow |
-| 2025–2026 | Valtech | Senior Frontend Engineer | Carrefour checkout audit that met the client's +40 Lighthouse points target; VTEX AdminX app for 5,000 coupons per batch |
-| 2024–2025 | LQN | Frontend Developer | Sole frontend of a digital banking platform in 4 countries; fixed the month-end overload with on-demand GraphQL |
-| 2022–2024 | ITGlobers | Full Stack Developer | Cencosud subscription discounts (AWS Lambda and Master Data), gift cards, compliance flows for regulated products |
-| 2022 | Cadastra | Frontend Developer | VTEX IO components for La Rebaja, Lo Pido and Crocs Ecuador |
-
-Before software I spent 7 years as administrative and financial coordinator on construction projects, so I read a product through its business numbers too.
-
-## How I work with AI agents
-
-- Each ticket gets its own git worktree, agent session and state file, so several tickets move at once without stepping on each other.
-- The agent answers only from three sources: the task, the repository or a logged question with its link. Anything else becomes a question.
-- Separate agents execute, audit and test. I approve the design and every fix plan before code changes.
-- Every mistake goes into a shared log that the next tickets read.
-
-## Stack
-
-**Frontend:** React, Next.js, TypeScript, Redux, React Query, Apollo Client, React Hook Form, Material UI, Tailwind CSS<br>
-**Backend and APIs:** Node.js, Express, Koa, GraphQL, REST, BFF, FastAPI, Django REST Framework<br>
-**E-commerce:** VTEX IO (Store Framework, AdminX, Master Data, FastStore)<br>
-**Data and cloud:** PostgreSQL, SQLite, MongoDB, Pandas, AWS (Lambda, S3, Amplify), Docker<br>
-**Testing:** Jest, React Testing Library<br>
-**AI:** Claude Code, multi-agent workflows
-
-## Now
+<picture><source media="(prefers-color-scheme: dark)" srcset="h-now-dark.svg"><img src="h-now-light.svg" alt="Now" width="100%"></picture>
 
 - Finishing a Specialization in Big Data and Data Analytics at Universidad de Cataluña (December 2026).
-- Taking the e-commerce data pipeline to BigQuery, dbt and a public dashboard.
+- Taking the e-commerce data pipeline to Pub/Sub, BigQuery, dbt and a public dashboard.
 
----
+<br>
 
 <details>
-<summary><b>En español</b></summary>
+<summary><b>Versión en español</b></summary>
 
 <br>
 
@@ -114,11 +72,11 @@ Busco trabajo **remoto** como Full Stack o Senior Frontend Engineer, sobre todo 
 
 **Proyectos destacados**
 
-- **[Job Tracker](https://github.com/CarlosDev88/Job-Tracker):** convierte publicaciones de empleo de cuatro fuentes en una lista corta y ordenada. En una corrida real pasó de 1.017 publicaciones a 74 relevantes. 32 tests.
-- **[Arnés de agentes](https://github.com/CarlosDev88/agent-harness):** el flujo con el que llevé 4 tickets de scrapers a producción en paralelo, con un worktree por ticket, agentes que ejecutan, auditan y prueban, y aprobación humana en cada paso.
+- **[Job Tracker](https://github.com/CarlosDev88/Job-Tracker):** convierte publicaciones de empleo de cuatro fuentes en una lista corta y ordenada. En una corrida real pasó de 1.017 publicaciones a 74 relevantes.
+- **[Arnés de agentes](https://github.com/CarlosDev88/agent-harness):** el flujo con el que llevé 4 tickets de scrapers a producción en paralelo, con un worktree por ticket, agentes que ejecutan, auditan y prueban, y mi aprobación en cada paso.
 - **[Scraper de jurisprudencia](https://github.com/CarlosDev88/jurisprudence-jsf-viewstate-scraper):** scraper HTTP sin navegador para un portal legacy, con recuperación de sesión, backoff y checkpoint/resume. 21 tests.
 - **[BuildSync](https://github.com/CarlosDev88/buildsync):** backend modular de ERP y CRM para constructoras, que sale de mis 7 años en finanzas de obra.
-- **[Pipeline de datos de e-commerce](https://github.com/CarlosDev88/ecommerce-data-pipeline)** (en construcción): catálogos reales de tiendas VTEX y datos sintéticos guiados por reglas de negocio. Lo siguiente es Pub/Sub, BigQuery, dbt y un dashboard.
+- **[Pipeline de datos de e-commerce](https://github.com/CarlosDev88/ecommerce-data-pipeline)** (en construcción): catálogos reales de tiendas VTEX y datos sintéticos guiados por reglas de negocio.
 - **[Ejemplo full stack en VTEX IO](https://github.com/CarlosDev88/vtex-react-app-fortune-cookie):** tema de tienda, app React, app de Admin y servicio Node.js con Master Data.
 
 **Experiencia:** Magnar (2026, scrapers de ingesta de datos con agentes), Valtech (2025–2026, Senior Frontend Engineer: checkout de Carrefour con la meta de +40 puntos en Lighthouse cumplida y cupones masivos en AdminX), LQN (2024–2025, único frontend de una banca digital en 4 países), ITGlobers (2022–2024, Full Stack en clientes de Cencosud) y Cadastra (2022, componentes VTEX IO). Antes, 7 años como coordinador administrativo y financiero de obra.
